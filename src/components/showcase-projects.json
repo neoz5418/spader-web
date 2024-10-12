@@ -1,0 +1,122 @@
+[
+  {
+    "name": "GPT-4",
+    "image": "https://custom.typingmind.com/assets/models/gpt-4.webp",
+    "href": "/models/gpt-4"
+  },
+  {
+    "name": "GPT-3.5",
+    "image": "https://custom.typingmind.com/assets/models/gpt-35.webp",
+    "href": "/modelsgpt-3.5"
+  },
+  {
+    "name": "Gemini",
+    "image": "https://custom.typingmind.com/assets/models/gemini.png",
+    "href": "/modelsgemini"
+  },
+  {
+    "name": "LLaMA",
+    "image": "https://custom.typingmind.com/assets/models/llama.png",
+    "href": "/modelsllama"
+  },
+  {
+    "name": "Mistral",
+    "image": "https://custom.typingmind.com/assets/models/mistralai.png",
+    "href": "/modelsmistral"
+  },
+  {
+    "name": "Claude",
+    "image": "https://custom.typingmind.com/assets/models/claude.webp",
+    "href": "/modelsclaude"
+  },
+  {
+    "name": "Azure OpenAI",
+    "image": "https://custom.typingmind.com/assets/models/azureopenai.png",
+    "href": "/modelsazure-openai"
+  },
+  {
+    "name": "Bing Chat",
+    "image": "https://custom.typingmind.com/assets/models/bing.svg",
+    "href": "/modelsbing"
+  },
+  {
+    "name": "Pi AI",
+    "image": "https://custom.typingmind.com/assets/models/pi-logo-192.png",
+    "href": "/modelspi"
+  },
+  {
+    "name": "Perplexity AI",
+    "image": "https://custom.typingmind.com/assets/models/perplexityai.png",
+    "href": "/modelsperplexity"
+  },
+  {
+    "name": "Open Router",
+    "image": "https://custom.typingmind.com/assets/models/openrouterai.png",
+    "href": "/modelsopenrouterai"
+  },
+  {
+    "name": "Llava",
+    "image": "https://custom.typingmind.com/assets/models/llava.png",
+    "href": "/modelsllava"
+  },
+  {
+    "name": "GPT-4 for ALL",
+    "image": "https://custom.typingmind.com/assets/models/gpt4all.png",
+    "href": "/modelsgpt4all"
+  },
+  {
+    "name": "Vicuna",
+    "image": "https://custom.typingmind.com/assets/models/vicuna.png",
+    "href": "/modelsvicuna"
+  },
+  {
+    "name": "Falcon",
+    "image": "https://custom.typingmind.com/assets/models/falcon.png",
+    "href": "/modelsfalcon"
+  },
+  {
+    "name": "Hugging Face",
+    "image": "https://custom.typingmind.com/assets/models/huggingface.png",
+    "href": "/modelshuggingface"
+  },
+  {
+    "name": "Open Assistant",
+    "image": "https://custom.typingmind.com/assets/models/openassistant.webp",
+    "href": "/modelsopen-assistant"
+  },
+  {
+    "name": "Replit Code",
+    "image": "https://custom.typingmind.com/assets/models/replit.png",
+    "href": "/modelsreplit"
+  },
+  {
+    "name": "Phi-2",
+    "image": "https://custom.typingmind.com/assets/models/phi-2.png",
+    "href": "/modelsphi-2"
+  },
+  {
+    "name": "Gemma",
+    "image": "https://custom.typingmind.com/assets/models/gemma.jpg",
+    "href": "/modelsgemma"
+  },
+  {
+    "name": "Qwen2",
+    "image": "https://custom.typingmind.com/assets/models/qwen2.png",
+    "href": "/modelsqwen2"
+  },
+  {
+    "name": "DeepSeek",
+    "image": "https://custom.typingmind.com/assets/models/deepseek.png",
+    "href": "/modelsdeepseek"
+  },
+  {
+    "name": "Aya",
+    "image": "https://custom.typingmind.com/assets/models/aya.svg",
+    "href": "/modelsaya"
+  },
+  {
+    "name": "Orca-Mini",
+    "image": "https://custom.typingmind.com/assets/models/orca-mini.png",
+    "href": "/modelsorca-mini"
+  }
+]
