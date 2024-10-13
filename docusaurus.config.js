@@ -11,8 +11,8 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
     url: 'https://spader.ai', // Update this to your actual URL   
     baseUrl: '/',
     favicon: 'img/favicon.ico',
-    organizationName: 'Spader',
-    projectName: 'DocSearch',
+    organizationName: 'spader-ai',
+    projectName: 'spader-web',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'throw',
     presets: [
