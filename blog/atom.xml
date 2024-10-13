@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://spader.ai/blog</id>
+    <title>Spader AI Blog</title>
+    <updated>2024-10-10T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://spader.ai/blog"/>
+    <subtitle>Spader AI Blog</subtitle>
+    <icon>https://spader.ai/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome Spader]]></title>
+        <id>https://spader.ai/blog/welcome-spader</id>
+        <link href="https://spader.ai/blog/welcome-spader"/>
+        <updated>2024-10-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is my first post.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to this blog. This blog is created with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus 2</strong></a>.</p><p>This is my first post on Spader.</p><p>A whole bunch of exploration to follow.</p>]]></content>
+        <author>
+            <name>Spader</name>
+            <uri>https://spader.ai</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="spader" term="spader"/>
+    </entry>
+</feed>

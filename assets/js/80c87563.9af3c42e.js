@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_docsearch_website=self.webpackChunk_docsearch_website||[]).push([[623],{7500:e=>{e.exports=JSON.parse('{"label":"spader","permalink":"/blog/tags/spader","allTagsPath":"/blog/tags","count":1}')}}]);
